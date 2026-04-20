@@ -1,0 +1,19 @@
+body {
+  background: #fdfdfd;
+  margin: 0;
+  font-family: "Roboto", sans-serif;
+  display: flex;
+  justify-content: center;
+}
+
+#root {
+  width: 100%;
+  display: flex;
+  justify-content: center;
+}
+
+.App {
+  max-width: 900px;
+  width: 100%;
+  margin-top: 20px;
+}
